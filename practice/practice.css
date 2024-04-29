@@ -1,0 +1,34 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #264653; 
+}
+
+#header {
+	margin-top: -3vw;
+	background-color: #2a9d8f;
+	height: 10vw;
+	color: #f76f51;
+}
+
+#nav {
+	background-color: #e54a50;
+	height: 5vw;
+	margin-top: -1.7vw;
+}
+
+li { 
+    position: relative;
+    display: inline;
+    padding: 0.5em;
+    top: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #f3c46a;
+}
+
+a:hover {
+	color: #f4a261;
+}
